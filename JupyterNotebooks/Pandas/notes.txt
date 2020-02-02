@@ -1,0 +1,1 @@
+A good amount of this portion of the Python series is inspired from various online sources. All data-sets used in the notebooks are available online, and are mostly sourced from kaggle.com. ACM-UCR claims no ownership of any data used in these notebooks.
